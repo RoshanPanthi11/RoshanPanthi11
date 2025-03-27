@@ -8,5 +8,5 @@ I'm passionate about building dynamic and scalable web applications using modern
 
 - **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, Bootstrap  
 - **Database:** MongoDB,MySql  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+- **Tools & Platforms:** Git, GitHub, VS Code 
 - **Other Knowledge:** Data Structures & Algorithms, Networking, Operating Systems

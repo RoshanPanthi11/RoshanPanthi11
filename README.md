@@ -8,19 +8,6 @@ Currently seeking opportunities and internships where I can contribute, learn, a
 
 ---
 
-## 💼 Experience
-
-**Frontend Intern**  
-TechTrust Digital Solution Pvt. Ltd., Kathmandu  
-_Mar 2025 – Jul 2025_
-
-- Developed responsive and reusable UI components using React.js
-- Integrated RESTful APIs using Axios and Fetch
-- Improved UI/UX with modern design principles
-- Collaborated using Git & GitHub
-- Optimized application performance and fixed bugs
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,13 +34,6 @@ _Mar 2025 – Jul 2025_
 - VS Code
 - Postman
 
-### 📚 Core Knowledge
-- Data Structures & Algorithms
-- Operating Systems
-- Networking
-
----
-
 ## 🚀 Projects
 
 - 🛒 E-commerce Website  
@@ -63,15 +43,6 @@ _Mar 2025 – Jul 2025_
 - 🗳️ Online Voting System  
 - 🌦️ Weather App  
 
----
-
-## 📈 Current Focus
-
-- Improving full-stack architecture skills
-- Learning advanced backend concepts
-- Exploring scalable system design
-
----
 
 ## 📫 Let's Connect
 

@@ -24,6 +24,7 @@ Currently seeking opportunities and internships where I can contribute, learn, a
 - Express.js
 - RESTful API Development
 - JWT Authentication
+- Fast API
 
 ### 🗄️ Database
 - MongoDB

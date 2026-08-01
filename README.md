@@ -20,7 +20,6 @@ Currently seeking opportunities and internships where I can contribute, learn, a
 - Tailwind CSS
 
 ### 🖥️ Backend
-- Node.js
 - Express.js
 - RESTful API Development
 - JWT Authentication
@@ -28,12 +27,13 @@ Currently seeking opportunities and internships where I can contribute, learn, a
 
 ### 🗄️ Database
 - MongoDB
-- MySQL (CRUD Operations)
+- MySQL 
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - VS Code
 - Postman
+  
 
 ## 🚀 Projects
 
